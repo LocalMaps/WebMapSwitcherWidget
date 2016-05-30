@@ -1,0 +1,24 @@
+{
+  "name": "nzgisco-webmap-switcher-widget",
+  "version": "1.11792.1",
+  "description": "Widget that allows switching webmap.",
+  "files": [ "src" ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LocalMaps/WebMapSwitcherWidget.git"
+  },
+  "keywords": [
+    "LocalMaps",
+    "Widget",
+    "WebmapSwitcher"
+  ],
+  "author": "GISCO & GBS & LocalMaps",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "bugs": {
+    "url": "https://github.com/LocalMaps/WebMapSwitcherWidget/issues"
+  },
+  "homepage": "https://github.com/LocalMaps/WebMapSwitcherWidget#readme"
+}
