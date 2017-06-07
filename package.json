@@ -1,6 +1,6 @@
 {
   "name": "nzgisco-webmap-switcher-widget",
-  "version": "1.11792.1",
+  "version": "2.0.0",
   "description": "Widget that allows switching webmap.",
   "files": [ "src" ],
   "scripts": {
