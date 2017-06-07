@@ -28,11 +28,19 @@
 }
 
 .jimu-widget-themesgallery .esriBasemapGalleryNode {
-  width: 85px;
-  margin: 5px 10px 0 10px;
+    width: 85px;
+    margin: 5px 10px 0 5px;
 }
 
 .jimu-widget-themesgallery .esriBasemapGalleryThumbnail {
   display: block;
   margin: 1px auto;
 }
+
+/*.jimu-widget {
+    top: 35px !important;
+}
+
+.jimu-widget-frame.jimu-container {
+    bottom: 35px !important;
+}*/

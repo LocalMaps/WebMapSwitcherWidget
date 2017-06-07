@@ -78,6 +78,7 @@ define([
             this.appConfig.map.itemId = b.itemId;
             this.appConfig.map.mapOptions.extent = this.map.extent;
             this.appConfig._drawnGraphics = false;
+            //
             MapManager.getInstance()._recreateMap(this.appConfig);
         },
         destroythemesDijit: function() {
